@@ -1,1 +1,0 @@
-# ISO-27001-2022-Lead-Implementation
